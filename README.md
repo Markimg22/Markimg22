@@ -12,8 +12,6 @@
   <img align="left" alt="Marcos's LettCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
-<br/>
-
 I'm Marcos 🤓🖖, I am a beginner Developer 🧑‍💻, In my spare time I like to create games 🕹️.
 
 **Languages and Tools:**
