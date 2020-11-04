@@ -12,8 +12,9 @@
   <img alt="Marcos's LettCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
+<br/>
 
-__*I'm Marcos 🤓🖖, I am a beginner Developer 🧑‍💻, In my spare time I like to create games 🕹️.*__
+*I'm Marcos 🤓🖖, I am a beginner Developer 🧑‍💻, in my spare time I like to create games 🕹️.*
 
 **Languages and Tools:**
 
@@ -29,7 +30,7 @@ __*I'm Marcos 🤓🖖, I am a beginner Developer 🧑‍💻, In my spare time 
 
 <details>
   <summary>
-    <strong>My GitHub Stats </strong>📈 
+    <strong>My GitHub Stats</strong> 📈 
   </summary>
   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Markimg22&show_icons=true&theme=gotham&repo=github-readme-stats" alt="Marcos Stats" />
 </details>
