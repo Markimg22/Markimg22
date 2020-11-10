@@ -14,7 +14,7 @@
 
 <br/>
 
-*I'm Marcos 🤓🖖, I am a beginner Developer 🧑‍💻, in my spare time I like to create games 🕹️.*
+*I'm Marcos 🤓🖖, I am a beginner Web Developer 🧑‍💻, in my spare time I like to create games 🕹️.*
 
 **Languages and Tools:**
 
