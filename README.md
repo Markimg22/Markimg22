@@ -4,17 +4,16 @@
 
 <br />
 
-<div style="padding: 30px">
-  <a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/" target="_blank">
-    <img alt="Marcos's LinkdeIN" height="30px" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" >
-  </a>
-  <a href="https://www.instagram.com/markimg22/" target="_blank">
-    <img alt="Marcos's Instagram" height="30px" src="https://mairacuryteam.com.br/wp-content/uploads/2019/05/logo-instagram-png-fundo-transparente13-1.png" />
-  </a>
-  <a href="https://www.facebook.com/Markimg22" target="_blank">
-    <img alt="Marcos's Facebook" height="30px" src="https://i.pinimg.com/originals/81/f3/9a/81f39a2ad1696dc2cf1a54036e14f63d.png" />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/" target="_blank" style="margin-left: 10px;">
+  <img alt="Marcos's LinkdeIN" height="40px" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" >
+</a>
+<a href="https://www.instagram.com/markimg22/" target="_blank" style="margin-left: 10px;">
+  <img alt="Marcos's Instagram" height="40px" src="https://mairacuryteam.com.br/wp-content/uploads/2019/05/logo-instagram-png-fundo-transparente13-1.png" />
+</a>
+<a href="https://www.facebook.com/Markimg22" target="_blank" style="margin-left: 10px;">
+  <img alt="Marcos's Facebook" height="40px" src="https://www.datacontrolma.com.br/wp-content/uploads/2016/12/logo-facebook.png" />
+</a>
+
 
 ### Languages and Tools:
 
