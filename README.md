@@ -2,7 +2,7 @@
 
 *__I'm Marcos 🤓🖖, I am a beginner Web Developer 🧑‍💻, in my spare time I like to create games 🕹️.__*
 
-<div style="margin-left: 30px">
+<div>
   <a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/" target="_blank">
     <img alt="Marcos's LinkdeIN" height="40px" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" >
   </a>
