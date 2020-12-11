@@ -1,14 +1,15 @@
-### Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+
+*__I'm Marcos 🤓🖖, I am a beginner Web Developer 🧑‍💻, in my spare time I like to create games 🕹️.__*
+
+<br />
+
 <a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/" target="_blank" margin="10px">
   <img alt="Marcos's LinkdeIN" height="30px" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" >
 </a>
 <a href="https://www.instagram.com/markimg22/" target="_blank" margin="10px">
   <img alt="Marcos's Instagram" height="30px" src="https://mairacuryteam.com.br/wp-content/uploads/2019/05/logo-instagram-png-fundo-transparente13-1.png" />
 </a>
-
-<br/>
-
-*__I'm Marcos 🤓🖖, I am a beginner Web Developer 🧑‍💻, in my spare time I like to create games 🕹️.__*
 
 ### Languages and Tools:
 
