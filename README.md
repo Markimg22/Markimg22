@@ -20,7 +20,7 @@
 <code><img height="40" src="https://terminalroot.com.br/assets/img/css/css.png"></code>
 <code><img height="40" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://d33wubrfki0l68.cloudfront.net/d6ddbc283825d5da2b1dcbba08094e70c2300217/5219f/images/posts/nodejs.png"></code>
+<code><img height="40" src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png"></code>
 <code><img height="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"></code>
 <code><img height="40" src="https://www.di.ubi.pt/~fsilva/pjd/img/C_Sharp_logo.png"></code>
 <code><img height="40" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png"></code>
