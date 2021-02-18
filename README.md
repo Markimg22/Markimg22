@@ -1,6 +1,6 @@
 ## Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-*__I'm Marcos 🤓🖖, I am a beginner Web Developer 🧑‍💻, in my spare time I like to create games 🕹️.__*
+*__I'm Marcos 🤓🖖, I am a beginner Developer 🧑‍💻.*
 
 <div>
   <a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/" target="_blank">
