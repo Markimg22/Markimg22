@@ -23,8 +23,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png"></code>
 <code><img height="40" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"></code>
-<code><img height="40" src="https://www.di.ubi.pt/~fsilva/pjd/img/C_Sharp_logo.png"></code>
-<code><img height="40" src="https://cdn4.iconfinder.com/data/icons/various-icons-2/476/Unity.png"></code>
 <code><img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
 <code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"></code>
