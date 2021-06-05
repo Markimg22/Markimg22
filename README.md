@@ -30,4 +30,7 @@
 <br />
 
 ### My GitHub Stats: 📈 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Markimg22&show_icons=true&theme=gotham&repo=github-readme-stats" alt="Marcos Stats" />
+<div style="display: flex; align-item: center; justify-content: space-evenly; width: 80%"> 
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Markimg22&show_icons=true&theme=gotham&repo=github-readme-stats" alt="Marcos Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markimg22&layout=compact&langs_count=16&theme=tokyonight" />
+</div>
