@@ -33,5 +33,4 @@
 ### My GitHub Stats: 📈 
 <div style="display: flex; align-item: center; justify-content: space-evenly;"> 
   <img style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api?username=Markimg22&show_icons=true&theme=gotham&repo=github-readme-stats" alt="Marcos Stats" />
-  <img style="max-width: 400px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markimg22&layout=compact&langs_count=16&theme=tokyonight" />
 </div>
