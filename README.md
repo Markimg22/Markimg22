@@ -31,7 +31,7 @@
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 </code>
 <code>
-  <img height="40" src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png">
+  <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png">
 </code>
 <!-- <code>
   <img height="40" src="https://www.luiztools.com.br/img/mongodb-logo.png">
