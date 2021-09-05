@@ -33,11 +33,14 @@
 <code>
   <img height="40" src="https://miro.medium.com/max/400/1*tfZa4vsI6UusJYt_fzvGnQ.png">
 </code>
-<code>
+<!-- <code>
   <img height="40" src="https://www.luiztools.com.br/img/mongodb-logo.png">
-</code>
-<code>
+</code> -->
+<!-- <code>
   <img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-15.png">
+</code> -->
+<code>
+  <img height="40" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
 </code>
 <code>
   <img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
