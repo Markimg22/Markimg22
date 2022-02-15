@@ -1,6 +1,6 @@
 # Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> 
 
-**Olá, eu sou o Marcos 🤓🖖, sou um Desenvolvedor Júnior FullStack 🧑‍💻.**
+**Olá, eu sou o Marcos 🤓🖖, sou um Desenvolvedor FullStack 🧑‍💻.**
 
 <a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/" target="_blank">
   <img alt="Marcos's LinkdeIN" height="40px" src="https://i.pinimg.com/originals/58/99/22/589922e187ab719d0afa9c4c2993019b.png" >
