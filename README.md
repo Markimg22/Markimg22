@@ -34,7 +34,7 @@
   <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png">
 </code>
 <code>
-  <img height="40" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png">
+  <img height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
 </code>
 <code>
   <img height="40" src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67">
