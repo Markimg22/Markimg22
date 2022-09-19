@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/" target="_blank">
   <img alt="Marcos's LinkdeIN" height="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" >
 </a>
-<a href="https://www.instagram.com/markimg22/" target="_blank">
+<a href="https://www.instagram.com/marcosg_campos/" target="_blank">
   <img alt="Marcos's Instagram" height="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
 </a>
 
