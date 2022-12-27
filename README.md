@@ -1,52 +1,18 @@
-# Hello World! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> 
+# Hi, I'm Marcos 👨🏻‍💻
 
-**Olá, me chamo Marcos 🤓🖖, sou um Desenvolvedor Full-stack 🧑‍💻.**
+<h4 align="center">
 
-<a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/" target="_blank">
-  <img alt="Marcos's LinkdeIN" height="40px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" >
-</a>
-<a href="https://www.instagram.com/marcosg_campos/" target="_blank">
-  <img alt="Marcos's Instagram" height="40px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />
-</a>
+[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/Markimg22)](https://www.instagram.com/marcosg_campos/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/Markimg22)](https://www.linkedin.com/in/marcos-guilherme-g-m-campos/)
 
+</h4>
 
-## Linguagens e Ferramentas:
+I'm passionate about technology! I had my first contact with code in 2017 and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier.
 
-<code>
-  <img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png">
-</code>
-<code>
-  <img height="40" src="https://terminalroot.com.br/assets/img/css/css.png">
-</code>
-<code>
-  <img height="40" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png">
-</code>
-<code>
-  <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
-</code>
-<code>
-  <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-</code>
-<code>
-  <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1-1174935.png">
-</code>
-<code>
-  <img height="40" src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png">
-</code>
-<code>
-  <img height="40" src="https://camo.githubusercontent.com/62089edec0ee40bb26b3bf5f973b14d7f8e4b4e942f115cde5b9a5f9c0ca3382/687474703a2f2f7365656b6c6f676f2e636f6d2f696d616765732f4a2f6a6573742d6c6f676f2d463939303145424246372d7365656b6c6f676f2e636f6d2e706e67">
-</code>
-<code>
-  <img height="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
-</code>
-<code>
-  <img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png">
-</code>
-<code>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png">
-</code>
+I have knowledge in: JavaScript, TypeScript, Node.js, React, Flutter,MongoDB, SQL, MySQL, API Rest, Docker, HTML, CSS, Git, Docker, Linux, MacOS, Windows, Figma.
 
-## GitHub Status:
-![Markimg22's GitHub stats](https://github-readme-stats.vercel.app/api?username=markimg22&show_icons=true&theme=tokyonight&hide_title=true)
-<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markimg22&layout=compact&theme=tokyonight&hide_title=true)](https://github.com/markimg22/github-readme-stats)
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Markimg22&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Markimg22&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Markimg22&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Markimg22&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=Markimg22&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
