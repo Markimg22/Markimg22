@@ -7,9 +7,7 @@
 
 </h4>
 
-I'm passionate about technology! I had my first contact with code in 2017 and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier.
-
-I have knowledge in: JavaScript, TypeScript, Node.js, Databases, APIs, React JS / Native, HTML, CSS, Git, Docker, Linux, MacOS, Windows, Figma.
+Passionate about technology! I had my first contact with code when I was 17. Since then I've enjoyed learning and creating new things.
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Markimg22&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Markimg22&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Markimg22&theme=nord_dark) |
 | :-: | :-: | :-: |
