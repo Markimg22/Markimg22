@@ -28,8 +28,6 @@
 
 <br clear="both">
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=markimg22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Markimg22&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ###
