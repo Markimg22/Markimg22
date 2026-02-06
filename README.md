@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Hey, I'm Marcos, a Full Stack Engineer!</h1>
 
 <p>
-<a href="www.linkedin.com/in/marcos-guilherme-g-m-campos"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/marcos-guilherme-g-m-campos/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
